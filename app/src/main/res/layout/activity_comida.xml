@@ -10,11 +10,10 @@
 
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="500dp"
-        android:layout_height="600dp"
+        android:layout_marginBottom="530dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:srcCompat="@drawable/ein_shirt_mit_wasserfallausschnitt_n_hen"
-        tools:layout_editor_absoluteX="2dp"
-        tools:layout_editor_absoluteY="-61dp" />
+        tools:layout_editor_absoluteX="2dp" />
 
     <TextView
         android:id="@+id/txtdireccion"
@@ -56,7 +55,7 @@
         android:backgroundTint="#F4FF81"
         android:drawableTint="#CCFF90"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="text"
         android:text="N°"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"

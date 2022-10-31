@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="arrayLocales">
+
+      <item>Motoneta</item>
+      <item>LaRamona</item>
+      <item>UpSushi</item>
+      <item>Akami</item>
+      <item>KFC</item>
+      <item>Ficus</item>
+      <item>Telepizza</item>
+
+
+
+
+
+
+
+  </string-array>
+
+
+</resources>

@@ -8,13 +8,6 @@
     android:foregroundTint="#EF5350"
     tools:context=".Comida">
 
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_marginBottom="530dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:srcCompat="@drawable/ein_shirt_mit_wasserfallausschnitt_n_hen"
-        tools:layout_editor_absoluteX="2dp" />
-
     <TextView
         android:id="@+id/txtdireccion"
         android:layout_width="wrap_content"

@@ -11,14 +11,7 @@ import com.easy_food.entidades.ConexionSQLiteHelper;
 
 public class MainActivity extends AppCompatActivity {
 
-    public void registrar (View View ) {
-        EditText textPersonName =  findViewById(R.id.rnombre);
-        EditText textPassword = findViewById(R.id.editTextPassword);
 
-        Log.i (  "Nombre: ", textPersonName.getText().toString());
-        Log.i (  "password: ", textPersonName.getText().toString());
-
-    }
 
 
 

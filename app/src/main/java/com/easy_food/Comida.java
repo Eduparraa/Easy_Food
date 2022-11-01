@@ -9,14 +9,7 @@ import android.widget.EditText;
 
 public class Comida extends AppCompatActivity {
 
-    public void guardar (View View ) {
-        EditText textPersonName = findViewById(R.id.rnombre);
-        EditText text = findViewById(R.id.editCalle);
 
-        Log.i("Calle:", textPersonName.getText().toString());
-        Log.i("N°: ", text.getText().toString());
-
-    }
 
 
 

@@ -30,7 +30,7 @@ public class Locales extends AppCompatActivity {
         ListaLocales.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Toast.makeText(parent.getContext(),"Selecciona: "+ parent.getItemAtPosition(position).toString(),Toast.LENGTH_SHORT).show();
+                //Toast.makeText(parent.getContext(),"Selecciona: "+ parent.getItemAtPosition(position).toString(),Toast.LENGTH_SHORT).show();
             }
         });
 
